@@ -1,3 +1,4 @@
 # futminerDownoad
-WORK IN PROGRESS/n
+WORK IN PROGRESS
+
 FutMiner is a simple to use ethereum cryptocurrency miner, with payouts to paypal.
